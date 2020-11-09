@@ -8,5 +8,5 @@ Diagrama de classes:
 
 
 Integrantes:
-João Vitor Dinis da Silva
+João Vitor Dinis da Silva,
 João Pedro Carvalho Araújo
