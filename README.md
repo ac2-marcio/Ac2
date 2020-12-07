@@ -29,7 +29,7 @@ git clone https://github.com/ac2-marcio/Ac2.git
 
 **Features**
 
-O projeto conta com tela de menu, tela de login e cadastro.
+O projeto conta com tela de menu, tela de login, cadastro de cliente e produto.
 
 **Integrantes:**
 
