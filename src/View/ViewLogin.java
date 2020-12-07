@@ -98,7 +98,7 @@ public class ViewLogin extends javax.swing.JFrame {
             JOptionPane.showMessageDialog(rootPane, "Logado com sucesso!");
         }
         else{
-            JOptionPane.showMessageDialog(rootPane, "Não foi possivel efetuar o login.");
+            JOptionPane.showMessageDialog(rootPane, "Usuário ou senha incorretos.");
             LimpaLogin();
         }
     }//GEN-LAST:event_jButton1ActionPerformed
@@ -150,7 +150,6 @@ public class ViewLogin extends javax.swing.JFrame {
     // End of variables declaration//GEN-END:variables
 
     private void LimpaLogin(){
-        txtUsuario.setText("");
         txtSenha.setText("");
     }
 }

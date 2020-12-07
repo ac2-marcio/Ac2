@@ -1,17 +1,17 @@
 package objetos;
 
-public class cliente {
+public class Cliente {
     
     //atributos
-    private String nome;
-    private String cpf;
-    private String sexo;
-    private String endereco;
-    private String cidade;
-    private String estado;
-    private String senha;
+    private String nome = "";
+    private String cpf = "";
+    private String sexo = "";
+    private String endereco = "";
+    private String cidade = "";
+    private String estado = "";
+    
     //construtor
-    public cliente() {
+    public Cliente() {
         
     }
 
@@ -63,12 +63,8 @@ public class cliente {
         this.estado = estado;
     }
 
-    public String getSenha() {
-        return senha;
-    }
-
-    public void setSenha(String senha) {
-        this.senha = senha;
+    public void SetSexo(String string) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
     
     
