@@ -4,7 +4,7 @@
 
 **Diagrama de classes:**
 
-![diagrama](https://user-images.githubusercontent.com/63886659/97474508-ed91ac80-192a-11eb-863d-826fbd3b039a.png)
+![diagrama de classe](https://user-images.githubusercontent.com/63886659/101419970-f71a1700-38cf-11eb-8488-d92e2774ef8d.png)
 
 
 **Modelo DER**
